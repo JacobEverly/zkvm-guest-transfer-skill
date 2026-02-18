@@ -87,9 +87,6 @@ references/
   jolt-special.md                 # Jolt's function-level model + restructuring guide
 ```
 
-## Verified
-
-This skill was tested by transferring [RSP (Reth State Prover)](https://github.com/succinctlabs/rsp) from SP1 to R0VM and successfully executing Ethereum mainnet block 24,480,430 (99 transactions) on both platforms with matching block header hashes.
 
 ## License
 
